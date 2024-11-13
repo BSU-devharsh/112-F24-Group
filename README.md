@@ -4,8 +4,8 @@ Final group project in Java.
 
 #### Bowie State University
 #### Department of Computer Science
-#### COSC 112, Section 002, Fall 2024
-#### Homework 4, 14 November 2024
+#### COSC 112, Section 002
+#### Group Project, Fall 2024
 #### Instructor: Dr. Devharsh Trivedi
 
 
