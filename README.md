@@ -14,5 +14,5 @@ Final group project in Java.
 - You must follow the university student guidelines and honor code.
 - Instructions are posted in ```group.md``` file.
 - Submissions must be made on ```GitHub```.
-- Please upload your code and presentation files.
+- Please upload your code, user manual, and presentation files.
 - Each group member must commit individually to GitHub and contribute equally to the project.
